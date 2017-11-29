@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BottomSheetDemo</string>
+    <string name="text_expand_bottom_sheet">expand</string>
+    <string name="text_collapse_bottom_sheet">collapse</string>
+    <string name="text_hide_bottom_sheet">hide</string>
+    <string name="text_show_bottom_sheet_dialog">show</string>
+    <string name="text_expand_me">expand_me</string>
+    <string name="text_welcome_message">welcome</string>
+    <string name="text_collapse_me">collapse_me</string>
+    <string name="text_bottom_sheet_toggle">bottom_sheet_toggle</string>
+</resources>
